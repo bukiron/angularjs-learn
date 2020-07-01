@@ -4,10 +4,10 @@ h1, p {
 }
 /*selector de etiqueta, para todas las que hubiera*/
 body {
-  background-color: rgb(106, 250, 250);
+  background-color: rgb(2, 53, 53);
 }
 header {
-  background-color: rgb(0, 185, 185);
+  background-color: rgb(7, 110, 110)
 }
 /*selector de ID -> #cabecera*/
 #cabeceraweb{

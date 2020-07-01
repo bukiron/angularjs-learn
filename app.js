@@ -2,7 +2,7 @@ import angular from 'angular';
 import '@uirouter/angularjs';
 
 // Import your app stylesheets
-import './style.css';
+import './style2.css';
 
 // Import your app functionality
 import './home'
