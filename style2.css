@@ -2,3 +2,7 @@
 h1, p {
   font-family: Lato;
 }
+/*selector de etiqueta, para todas las que hubiera*/
+body {
+  background-color: rgb(255, 255, 255);
+}
